@@ -35,4 +35,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Eshika-115/dsaPractice/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Eshika-115/dsaPractice/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Eshika-115/dsaPractice/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
