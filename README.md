@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshika-115/dsaPractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Eshika-115/dsaPractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Eshika-115/dsaPractice/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0229-majority-element-ii) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshika-115/dsaPractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Eshika-115/dsaPractice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Eshika-115/dsaPractice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Eshika-115/dsaPractice/tree/master/0189-rotate-array) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
