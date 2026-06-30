@@ -20,6 +20,7 @@
 | [0169-majority-element](https://github.com/Eshika-115/dsaPractice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Eshika-115/dsaPractice/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eshika-115/dsaPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Eshika-115/dsaPractice/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Sorting
 |  |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Eshika-115/dsaPractice/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eshika-115/dsaPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Eshika-115/dsaPractice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Eshika-115/dsaPractice/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Divide and Conquer
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Eshika-115/dsaPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eshika-115/dsaPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
