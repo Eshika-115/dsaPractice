@@ -6,12 +6,12 @@ public:
         bool increasing= true;
         bool decreasing=true;
 
-        for(int i =1;i<n;i++){
-            if(nums[i]>nums[i-1]){
+        for(int i =0;i<n-1;i++){
+            if(nums[i]>nums[i+1]){
                 decreasing=false;
             }
 
-            if(nums[i]<nums[i-1]){
+            if(nums[i]<nums[i+1]){
                 increasing=false;
             }
         }
