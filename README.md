@@ -15,6 +15,7 @@
 | [0229-majority-element-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0229-majority-element-ii) |
 | [0896-monotonic-array](https://github.com/Eshika-115/dsaPractice/tree/master/0896-monotonic-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Eshika-115/dsaPractice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Eshika-115/dsaPractice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Eshika-115/dsaPractice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eshika-115/dsaPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Eshika-115/dsaPractice/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Eshika-115/dsaPractice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
@@ -83,4 +85,5 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eshika-115/dsaPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Eshika-115/dsaPractice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
