@@ -10,10 +10,10 @@ public:
             char c= s[j];
             
          while(st.count(c)){
-            st.erase(s[i]);
+            st.erase(s[i]); // pehle wala hatao 
             i++;
          }
-            st.insert(c);
+            st.insert(c); //baaad wala inseert 
             long_sub_len= max(long_sub_len,j-i+1);
             j++;
          }
