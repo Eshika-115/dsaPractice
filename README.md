@@ -116,4 +116,12 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Eshika-115/dsaPractice/tree/master/0187-repeated-dna-sequences) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Eshika-115/dsaPractice/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Eshika-115/dsaPractice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
