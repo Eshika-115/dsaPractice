@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Eshika-115/dsaPractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Eshika-115/dsaPractice/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Eshika-115/dsaPractice/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Eshika-115/dsaPractice/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0219-contains-duplicate-ii) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Eshika-115/dsaPractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Eshika-115/dsaPractice/tree/master/0013-roman-to-integer) |
 | [0187-repeated-dna-sequences](https://github.com/Eshika-115/dsaPractice/tree/master/0187-repeated-dna-sequences) |
 | [1189-maximum-number-of-balloons](https://github.com/Eshika-115/dsaPractice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eshika-115/dsaPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Eshika-115/dsaPractice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Eshika-115/dsaPractice/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Eshika-115/dsaPractice/tree/master/0189-rotate-array) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Eshika-115/dsaPractice/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Eshika-115/dsaPractice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
