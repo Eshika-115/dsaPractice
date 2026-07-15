@@ -79,6 +79,7 @@
 | [0009-palindrome-number](https://github.com/Eshika-115/dsaPractice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Eshika-115/dsaPractice/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Eshika-115/dsaPractice/tree/master/0189-rotate-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Eshika-115/dsaPractice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Eshika-115/dsaPractice/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Eshika-115/dsaPractice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
@@ -133,4 +134,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Eshika-115/dsaPractice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Eshika-115/dsaPractice/tree/master/0206-reverse-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Eshika-115/dsaPractice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
