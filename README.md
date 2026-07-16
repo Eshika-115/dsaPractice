@@ -26,6 +26,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Eshika-115/dsaPractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Eshika-115/dsaPractice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Eshika-115/dsaPractice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Eshika-115/dsaPractice/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Eshika-115/dsaPractice/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0219-contains-duplicate-ii) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Eshika-115/dsaPractice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Eshika-115/dsaPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Eshika-115/dsaPractice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Eshika-115/dsaPractice/tree/master/0234-palindrome-linked-list) |
@@ -131,6 +133,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Eshika-115/dsaPractice/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Eshika-115/dsaPractice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Eshika-115/dsaPractice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Eshika-115/dsaPractice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Eshika-115/dsaPractice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Eshika-115/dsaPractice/tree/master/0876-middle-of-the-linked-list) |
