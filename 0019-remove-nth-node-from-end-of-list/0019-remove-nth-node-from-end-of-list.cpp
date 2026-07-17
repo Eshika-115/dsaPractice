@@ -10,43 +10,31 @@
  */
 class Solution {
 public:
-    int travel_front(ListNode* head){
-
-        int length=0;
-         while(head!=NULL){
-            length++;
-            head=head->next;
-         }
-
-         return length;
-          }
-
     ListNode* removeNthFromEnd(ListNode* head, int n) {
+
+
+        ListNode* dummy = new ListNode(0,head);
+
+        ListNode* slow= dummy;
+        ListNode* fast= dummy;
+
+    for(int i =0 ;i<=n;i++){
+        fast= fast->next;
+    }
+
+    while(fast!=NULL){
+        slow= slow->next;
+        fast=fast->next;
+    }
+
+    ListNode* temp= slow->next;
+    slow->next=slow->next->next;
+    delete temp;
+    
+
+    ListNode* newhead = dummy->next;
+    delete dummy;
+    return newhead;
         
-         int l =travel_front(head);
-        
-
-         //corner case
-
-       
-         if(n==l){
-            ListNode* temp=head;
-            head=head->next;
-            delete temp;
-            return head;
-         }
-       
-
-       int steps=l-n;
-       ListNode* prev= NULL;
-       ListNode* temp=head;
-         while(steps--){
-            prev=temp;
-            temp=temp->next;
-         }
-
-         prev->next= temp->next;
-         delete temp;
-          return head;
     }
 };
