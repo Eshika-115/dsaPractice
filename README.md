@@ -134,6 +134,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Eshika-115/dsaPractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Eshika-115/dsaPractice/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Eshika-115/dsaPractice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Eshika-115/dsaPractice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Eshika-115/dsaPractice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Eshika-115/dsaPractice/tree/master/0138-copy-list-with-random-pointer) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Eshika-115/dsaPractice/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Eshika-115/dsaPractice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Eshika-115/dsaPractice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Eshika-115/dsaPractice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Eshika-115/dsaPractice/tree/master/0234-palindrome-linked-list) |
