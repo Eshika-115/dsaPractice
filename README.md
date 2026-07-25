@@ -55,6 +55,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Eshika-115/dsaPractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Eshika-115/dsaPractice/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/Eshika-115/dsaPractice/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Eshika-115/dsaPractice/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Eshika-115/dsaPractice/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Eshika-115/dsaPractice/tree/master/1189-maximum-number-of-balloons) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Eshika-115/dsaPractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Eshika-115/dsaPractice/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Eshika-115/dsaPractice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Eshika-115/dsaPractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Eshika-115/dsaPractice/tree/master/0160-intersection-of-two-linked-lists) |
