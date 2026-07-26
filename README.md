@@ -58,6 +58,7 @@
 | [0125-valid-palindrome](https://github.com/Eshika-115/dsaPractice/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Eshika-115/dsaPractice/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Eshika-115/dsaPractice/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/Eshika-115/dsaPractice/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Eshika-115/dsaPractice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eshika-115/dsaPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Eshika-115/dsaPractice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -191,4 +192,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Eshika-115/dsaPractice/tree/master/0146-lru-cache) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Eshika-115/dsaPractice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
