@@ -17,6 +17,7 @@
 | [0229-majority-element-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0229-majority-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Eshika-115/dsaPractice/tree/master/0643-maximum-average-subarray-i) |
 | [0896-monotonic-array](https://github.com/Eshika-115/dsaPractice/tree/master/0896-monotonic-array) |
+| [1528-shuffle-string](https://github.com/Eshika-115/dsaPractice/tree/master/1528-shuffle-string) |
 | [1652-defuse-the-bomb](https://github.com/Eshika-115/dsaPractice/tree/master/1652-defuse-the-bomb) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Eshika-115/dsaPractice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Eshika-115/dsaPractice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -62,6 +63,7 @@
 | [0796-rotate-string](https://github.com/Eshika-115/dsaPractice/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Eshika-115/dsaPractice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eshika-115/dsaPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1528-shuffle-string](https://github.com/Eshika-115/dsaPractice/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Eshika-115/dsaPractice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Eshika-115/dsaPractice/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Divide and Conquer
