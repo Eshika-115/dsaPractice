@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Eshika-115/dsaPractice/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Eshika-115/dsaPractice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshika-115/dsaPractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Eshika-115/dsaPractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Eshika-115/dsaPractice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Eshika-115/dsaPractice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Eshika-115/dsaPractice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Eshika-115/dsaPractice/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Eshika-115/dsaPractice/tree/master/0187-repeated-dna-sequences) |
@@ -199,4 +201,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Eshika-115/dsaPractice/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Eshika-115/dsaPractice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
