@@ -68,6 +68,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Eshika-115/dsaPractice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eshika-115/dsaPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/Eshika-115/dsaPractice/tree/master/1528-shuffle-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Eshika-115/dsaPractice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Eshika-115/dsaPractice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Eshika-115/dsaPractice/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Divide and Conquer
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Eshika-115/dsaPractice/tree/master/0234-palindrome-linked-list) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Eshika-115/dsaPractice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -207,4 +209,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Eshika-115/dsaPractice/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Eshika-115/dsaPractice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
