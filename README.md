@@ -37,6 +37,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Eshika-115/dsaPractice/tree/master/0290-word-pattern) |
+| [0567-permutation-in-string](https://github.com/Eshika-115/dsaPractice/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Eshika-115/dsaPractice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eshika-115/dsaPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Eshika-115/dsaPractice/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -64,6 +65,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Eshika-115/dsaPractice/tree/master/0187-repeated-dna-sequences) |
 | [0290-word-pattern](https://github.com/Eshika-115/dsaPractice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Eshika-115/dsaPractice/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Eshika-115/dsaPractice/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Eshika-115/dsaPractice/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Eshika-115/dsaPractice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eshika-115/dsaPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -112,6 +114,7 @@
 | [0189-rotate-array](https://github.com/Eshika-115/dsaPractice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Eshika-115/dsaPractice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Eshika-115/dsaPractice/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Eshika-115/dsaPractice/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Eshika-115/dsaPractice/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -131,6 +134,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Eshika-115/dsaPractice/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Eshika-115/dsaPractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Eshika-115/dsaPractice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Eshika-115/dsaPractice/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eshika-115/dsaPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1652-defuse-the-bomb](https://github.com/Eshika-115/dsaPractice/tree/master/1652-defuse-the-bomb) |
