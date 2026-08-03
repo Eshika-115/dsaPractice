@@ -36,6 +36,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Eshika-115/dsaPractice/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Eshika-115/dsaPractice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Eshika-115/dsaPractice/tree/master/0290-word-pattern) |
 | [0567-permutation-in-string](https://github.com/Eshika-115/dsaPractice/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Eshika-115/dsaPractice/tree/master/1189-maximum-number-of-balloons) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Eshika-115/dsaPractice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Eshika-115/dsaPractice/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0125-valid-palindrome](https://github.com/Eshika-115/dsaPractice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Eshika-115/dsaPractice/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Eshika-115/dsaPractice/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Eshika-115/dsaPractice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Eshika-115/dsaPractice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Eshika-115/dsaPractice/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Eshika-115/dsaPractice/tree/master/0567-permutation-in-string) |
