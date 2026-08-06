@@ -16,6 +16,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Eshika-115/dsaPractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Eshika-115/dsaPractice/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/Eshika-115/dsaPractice/tree/master/0643-maximum-average-subarray-i) |
 | [0896-monotonic-array](https://github.com/Eshika-115/dsaPractice/tree/master/0896-monotonic-array) |
 | [1528-shuffle-string](https://github.com/Eshika-115/dsaPractice/tree/master/1528-shuffle-string) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Eshika-115/dsaPractice/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Eshika-115/dsaPractice/tree/master/0238-product-of-array-except-self) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Eshika-115/dsaPractice/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Math
 |  |
