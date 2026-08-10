@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Eshika-115/dsaPractice/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Eshika-115/dsaPractice/tree/master/0055-jump-game) |
+| [0079-word-search](https://github.com/Eshika-115/dsaPractice/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshika-115/dsaPractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Eshika-115/dsaPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -67,6 +68,7 @@
 | [0013-roman-to-integer](https://github.com/Eshika-115/dsaPractice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Eshika-115/dsaPractice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Eshika-115/dsaPractice/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Eshika-115/dsaPractice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Eshika-115/dsaPractice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Eshika-115/dsaPractice/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Eshika-115/dsaPractice/tree/master/0187-repeated-dna-sequences) |
@@ -205,6 +207,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Eshika-115/dsaPractice/tree/master/0079-word-search) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Eshika-115/dsaPractice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -227,4 +230,12 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Eshika-115/dsaPractice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Eshika-115/dsaPractice/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Eshika-115/dsaPractice/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
