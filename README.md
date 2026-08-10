@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Eshika-115/dsaPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Eshika-115/dsaPractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Eshika-115/dsaPractice/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Eshika-115/dsaPractice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Eshika-115/dsaPractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0229-majority-element-ii) |
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Eshika-115/dsaPractice/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Eshika-115/dsaPractice/tree/master/0200-number-of-islands) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Eshika-115/dsaPractice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -238,4 +240,13 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Eshika-115/dsaPractice/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Eshika-115/dsaPractice/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Eshika-115/dsaPractice/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Eshika-115/dsaPractice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
