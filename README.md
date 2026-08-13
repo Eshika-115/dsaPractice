@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Eshika-115/dsaPractice/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/Eshika-115/dsaPractice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Eshika-115/dsaPractice/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/Eshika-115/dsaPractice/tree/master/0079-word-search) |
@@ -96,6 +97,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Eshika-115/dsaPractice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Eshika-115/dsaPractice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshika-115/dsaPractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Eshika-115/dsaPractice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Eshika-115/dsaPractice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Eshika-115/dsaPractice/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Eshika-115/dsaPractice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Eshika-115/dsaPractice/tree/master/0141-linked-list-cycle) |
@@ -209,6 +212,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Eshika-115/dsaPractice/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Eshika-115/dsaPractice/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Eshika-115/dsaPractice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Depth-First Search
@@ -255,4 +259,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Eshika-115/dsaPractice/tree/master/0200-number-of-islands) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Eshika-115/dsaPractice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
