@@ -25,6 +25,7 @@
 | [1528-shuffle-string](https://github.com/Eshika-115/dsaPractice/tree/master/1528-shuffle-string) |
 | [1652-defuse-the-bomb](https://github.com/Eshika-115/dsaPractice/tree/master/1652-defuse-the-bomb) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Eshika-115/dsaPractice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Eshika-115/dsaPractice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Eshika-115/dsaPractice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Eshika-115/dsaPractice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Eshika-115/dsaPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -242,6 +243,7 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Eshika-115/dsaPractice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Eshika-115/dsaPractice/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -251,6 +253,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Eshika-115/dsaPractice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Eshika-115/dsaPractice/tree/master/0200-number-of-islands) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Eshika-115/dsaPractice/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Breadth-First Search
 |  |
 | ------- |
