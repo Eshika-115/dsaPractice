@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/Eshika-115/dsaPractice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Eshika-115/dsaPractice/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Eshika-115/dsaPractice/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Eshika-115/dsaPractice/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshika-115/dsaPractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -117,6 +118,7 @@
 | [0002-add-two-numbers](https://github.com/Eshika-115/dsaPractice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Eshika-115/dsaPractice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Eshika-115/dsaPractice/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Eshika-115/dsaPractice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Eshika-115/dsaPractice/tree/master/0189-rotate-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Eshika-115/dsaPractice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Eshika-115/dsaPractice/tree/master/3700-number-of-zigzag-arrays-ii) |
