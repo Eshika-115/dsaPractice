@@ -13,6 +13,7 @@
 | [0079-word-search](https://github.com/Eshika-115/dsaPractice/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshika-115/dsaPractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0162-find-peak-element](https://github.com/Eshika-115/dsaPractice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Eshika-115/dsaPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Eshika-115/dsaPractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Eshika-115/dsaPractice/tree/master/0189-rotate-array) |
@@ -149,6 +150,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Eshika-115/dsaPractice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Eshika-115/dsaPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Eshika-115/dsaPractice/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
