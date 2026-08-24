@@ -88,6 +88,7 @@
 | [0242-valid-anagram](https://github.com/Eshika-115/dsaPractice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Eshika-115/dsaPractice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Eshika-115/dsaPractice/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Eshika-115/dsaPractice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Eshika-115/dsaPractice/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Eshika-115/dsaPractice/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Eshika-115/dsaPractice/tree/master/1189-maximum-number-of-balloons) |
@@ -108,6 +109,7 @@
 | [0055-jump-game](https://github.com/Eshika-115/dsaPractice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshika-115/dsaPractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Eshika-115/dsaPractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Eshika-115/dsaPractice/tree/master/0392-is-subsequence) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Eshika-115/dsaPractice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Eshika-115/dsaPractice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -142,6 +144,7 @@
 | [0189-rotate-array](https://github.com/Eshika-115/dsaPractice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Eshika-115/dsaPractice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Eshika-115/dsaPractice/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Eshika-115/dsaPractice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Eshika-115/dsaPractice/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Eshika-115/dsaPractice/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
