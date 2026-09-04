@@ -312,4 +312,8 @@
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/Eshika-115/dsaPractice/tree/master/2363-merge-similar-items) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Eshika-115/dsaPractice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
